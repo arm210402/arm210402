@@ -17,6 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.codechef.com/users/akshay_2142" target="blank"><img align="center" src="https://img.icons8.com/bubbles/512/codechef.png" alt="akshay_2142" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/akshay2142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshay2142" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshay_2142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshay_2142" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akshay2142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshay2142" height="30" width="40" /></a>
 </p>
