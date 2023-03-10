@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arm210402&label=Profile%20views&color=0e75b6&style=flat" alt="arm210402" /> </p>
 
-- 🔭 I’m currently working on [Link-Share](https://github.com/arm210402/Link-Share)
+- 🔭 I’m currently working on [Amazon Scrapper](https://github.com/arm210402/amazon-scrapper)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Tailwind**
 
-- 👯 I’m looking to collaborate on [loginApp](https://github.com/arm210402/loginApp)
+- 👯 I’m looking to collaborate on [Amazon Scrapper](https://github.com/arm210402/amazon-scrapper)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arm210402?tab=repositories](https://github.com/arm210402?tab=repositories)
 
