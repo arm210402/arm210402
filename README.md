@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Amazon Scrapper](https://github.com/arm210402/amazon-scrapper)
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **TypeScript and Tailwind**
 
 - 👯 I’m looking to collaborate on [Amazon Scrapper](https://github.com/arm210402/amazon-scrapper)
 
